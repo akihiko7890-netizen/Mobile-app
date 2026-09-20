@@ -1,0 +1,6 @@
+{
+  "name": "NestNote",
+  "description": "A warm, private family communication app for children to share daily and weekly notes with parents, and stay connected.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
